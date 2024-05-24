@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - A researcher in Japan (Computing, Machine Learning)
 - rhythm gamer (IIDX, BMS, sdvx)
 - bandman (sometimes, Gt / Key)
+- **NON**-professional programmer
 
 # Major works
 - [INFINITAS_daken_counter](https://github.com/dj-kata/inf_daken_counter_obsw)
