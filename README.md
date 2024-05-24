@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - rhythm gamer (IIDX, BMS, sdvx)
 - bandman (sometimes, Gt / Key)
 - **NON**-professional programmer
+- JP/EN
 
 # Major works
 - [INFINITAS_daken_counter](https://github.com/dj-kata/inf_daken_counter_obsw)
