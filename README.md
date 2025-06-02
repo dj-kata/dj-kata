@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - JP/EN
 
 # Major works
+- [Otoge Input Viewer](https://github.com/dj-kata/otoge_input_viewer)
 - [INFINITAS_daken_counter](https://github.com/dj-kata/inf_daken_counter_obsw)
 - [sdvx_helper](https://github.com/dj-kata/sdvx_helper)
 - [oraja_helper](https://github.com/dj-kata/oraja_helper)
